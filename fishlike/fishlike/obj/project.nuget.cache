@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvlAq4IHOJ8gub99wrqbJfvungy9ii8Vx1EDpRy58M9SvJcck40qIqmqJpjRudnpT9d8FGzFTOgHRnMRbgW6ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deniz\\Desktop\\progz\\fishlike2\\fishlike\\fishlike\\fishlike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deniz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

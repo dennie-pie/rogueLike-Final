@@ -1,0 +1,26 @@
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.csprojAssemblyReference.cache
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.AssemblyInfoInputs.cache
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.AssemblyInfo.cs
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.exe
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.deps.json
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.runtimeconfig.json
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.runtimeconfig.dev.json
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.dll
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.pdb
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.dll
+\\ops.internal\Users\Students-KS4\2015 Year Group\15DAypar\Desktop\nea2nddraft\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.pdb
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.exe
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.deps.json
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.runtimeconfig.json
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.runtimeconfig.dev.json
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.dll
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\bin\Debug\netcoreapp3.1\fishlike.pdb
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.AssemblyInfoInputs.cache
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.AssemblyInfo.cs
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.dll
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.pdb
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.genruntimeconfig.cache
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\deniz\Desktop\progz\fishlike2\fishlike\fishlike\obj\Debug\netcoreapp3.1\fishlike.csproj.CopyComplete
